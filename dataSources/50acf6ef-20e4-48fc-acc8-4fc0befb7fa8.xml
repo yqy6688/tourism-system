@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="0@110.40.228.212">
+  <database-model serializer="dbm" dbms="REDIS" family-id="REDIS" format-version="4.53">
+    <root id="1">
+      <ServerVersion>6.2.18</ServerVersion>
+    </root>
+    <schema id="2" parent="1" name="0">
+      <Current>1</Current>
+    </schema>
+    <schema id="3" parent="1" name="1"/>
+    <schema id="4" parent="1" name="2"/>
+    <schema id="5" parent="1" name="3"/>
+    <schema id="6" parent="1" name="4"/>
+    <schema id="7" parent="1" name="5"/>
+    <schema id="8" parent="1" name="6"/>
+    <schema id="9" parent="1" name="7"/>
+    <schema id="10" parent="1" name="8"/>
+    <schema id="11" parent="1" name="9"/>
+    <schema id="12" parent="1" name="10"/>
+    <schema id="13" parent="1" name="11"/>
+    <schema id="14" parent="1" name="12"/>
+    <schema id="15" parent="1" name="13"/>
+    <schema id="16" parent="1" name="14"/>
+    <schema id="17" parent="1" name="15"/>
+    <hash-table id="18" parent="2" name="online:users"/>
+    <string id="19" parent="2" name="backup1"/>
+    <string id="20" parent="2" name="backup2"/>
+    <string id="21" parent="2" name="backup3"/>
+    <string id="22" parent="2" name="backup4"/>
+    <string id="23" parent="2" name="online:info:1"/>
+    <string id="24" parent="2" name="online:info:3"/>
+    <string id="25" parent="2" name="user:1"/>
+    <string id="26" parent="2" name="user:3"/>
+    <string id="27" parent="2" name="user:token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiIxIiwiZXhwIjoxNzc0MDg0MDQwfQ.aJrIAii-kNKfRv8mjvkFCKCDISXKJmmjOY9rVgi4XWo"/>
+    <string id="28" parent="2" name="user:token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiIxIiwiZXhwIjoxNzc0MDg0Mzg0fQ.D5RmtF2nxriS6xvTUugFp25-xntw50MADaPriWlWF_c"/>
+    <string id="29" parent="2" name="user:token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiIxIiwiZXhwIjoxNzc0MDg3MDgyfQ.FcGqgy4balp9OdJloW5oeGe2XX--M8PwlgaZozV1ebs"/>
+    <string id="30" parent="2" name="user:token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiIzIiwiZXhwIjoxNzc0MDg3MDkyfQ.kLEaP2jfj0Ur-pKuPZCbbQ8PfiMnub_FOSy01RV8lbo"/>
+    <string id="31" parent="2" name="user:token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiIzIiwiZXhwIjoxNzc0MDgyNTg5fQ.-BNFWK2XigIoZGICNYXpVSdEamJKT-Mp_NOO41AdCmc"/>
+    <string id="32" parent="2" name="user:token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiIzIiwiZXhwIjoxNzc0MDgzNjA3fQ.TNstsKOkgHWJm5WcGgP2HbMMB5p30KLXI6A79sjv7jE"/>
+  </database-model>
+</dataSource>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ecfe5f64-a976-41f5-8309-ff43401585d9" name="更改" comment="1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="$USER_HOME$/Documents/05-system/apache-maven-3.9.11" />
+        <option name="localRepository" value="$USER_HOME$/Documents/05-system/maven-repository" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="$USER_HOME$/Documents/05-system/apache-maven-3.9.11/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2rX05QYu5ma9EsI8OxCnyAKYJ9L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.springboot [org.apache.maven.plugins:maven-jar-plugin:3.3.0:jar].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.SpringbootApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/lzl/Desktop/delivered/serve/springboot&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;redis&quot;
+    ]
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaweb\vue3_template 无动态菜单\springboot\src\main\java\org\example\springboot" />
+      <recent name="F:\Template\springboot\src\main\java\org\example\springboot\util" />
+      <recent name="F:\Template\springboot\src\main\java\org\example\springboot\config" />
+      <recent name="F:\Template\springboot\src\main\java\org\example\springboot\entity" />
+      <recent name="F:\Template\springboot\src\main\java\org\example\springboot\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.springboot.mapper" />
+      <recent name="org.example.springboot.AiService" />
+      <recent name="org.example.springboot.config" />
+      <recent name="org.example.springboot.util" />
+      <recent name="org.example.springboot.enumClass" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.springboot.SpringbootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="ecfe5f64-a976-41f5-8309-ff43401585d9" name="更改" comment="" />
+      <created>1736689942570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736689942570</updated>
+      <workItem from="1736689943868" duration="1183000" />
+      <workItem from="1736757187382" duration="50000" />
+      <workItem from="1736784438936" duration="9713000" />
+      <workItem from="1736833421474" duration="2125000" />
+      <workItem from="1736858645565" duration="41000" />
+      <workItem from="1736907695981" duration="2477000" />
+      <workItem from="1736935918737" duration="21000" />
+      <workItem from="1737256389302" duration="152000" />
+      <workItem from="1737257528227" duration="348000" />
+      <workItem from="1737289520680" duration="9000" />
+      <workItem from="1739278464916" duration="10714000" />
+      <workItem from="1745389670131" duration="414000" />
+      <workItem from="1747186300212" duration="5810000" />
+      <workItem from="1747287424234" duration="693000" />
+      <workItem from="1748490924116" duration="7957000" />
+      <workItem from="1748573287112" duration="11871000" />
+      <workItem from="1749914835850" duration="1991000" />
+      <workItem from="1750317393527" duration="9831000" />
+      <workItem from="1750389226793" duration="599000" />
+      <workItem from="1750425191086" duration="13309000" />
+      <workItem from="1750645474869" duration="2949000" />
+      <workItem from="1759808373583" duration="1096000" />
+      <workItem from="1762670739055" duration="5023000" />
+      <workItem from="1762737806291" duration="5626000" />
+      <workItem from="1762840828968" duration="10904000" />
+      <workItem from="1762910448657" duration="2150000" />
+      <workItem from="1763000189986" duration="604000" />
+      <workItem from="1763005414172" duration="6065000" />
+      <workItem from="1770706431883" duration="6148000" />
+      <workItem from="1770793720982" duration="916000" />
+      <workItem from="1770794773566" duration="3000" />
+      <workItem from="1772008045790" duration="6423000" />
+      <workItem from="1772070873112" duration="4557000" />
+      <workItem from="1773544033820" duration="848000" />
+      <workItem from="1773546464758" duration="145000" />
+      <workItem from="1773561090504" duration="9689000" />
+      <workItem from="1773591023171" duration="3000" />
+      <workItem from="1773624376442" duration="29082000" />
+      <workItem from="1773727970251" duration="11626000" />
+      <workItem from="1773749275201" duration="627000" />
+      <workItem from="1773814918422" duration="5000" />
+      <workItem from="1773832410723" duration="4000" />
+      <workItem from="1773840337657" duration="11482000" />
+      <workItem from="1774075296253" duration="2358000" />
+      <workItem from="1774078660140" duration="156000" />
+      <workItem from="1774079807296" duration="679000" />
+      <workItem from="1774330213779" duration="2388000" />
+      <workItem from="1775266970329" duration="1366000" />
+      <workItem from="1775270268032" duration="30000" />
+    </task>
+    <task id="LOCAL-00001" summary="更改">
+      <option name="closed" value="true" />
+      <created>1773628355395</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1773628355395</updated>
+    </task>
+    <task id="LOCAL-00002" summary="refactor(api): 优化景点和攻略详情接口路径及排序&#10;&#10;- 修改景点详情接口路径为 /detail/{id}，避免路径冲突&#10;- 修改攻略详情接口路径为 /travel/{id}，增强语义清晰度&#10;- 在获取攻略详情时添加按浏览量降序排序逻辑&#10;- 代码结构调整提升接口访问体验和数据展示效果">
+      <option name="closed" value="true" />
+      <created>1773630054481</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1773630054481</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat(tag): 新增标签管理及查询功能">
+      <option name="closed" value="true" />
+      <created>1773643384920</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1773643384920</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat(accommodation): 新增住宿订单功能及获取房型列表接口">
+      <option name="closed" value="true" />
+      <created>1773648674915</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1773648674915</updated>
+    </task>
+    <task id="LOCAL-00005" summary="123">
+      <option name="closed" value="true" />
+      <created>1773728527596</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1773728527596</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1234">
+      <option name="closed" value="true" />
+      <created>1773728532419</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1773728532419</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1">
+      <option name="closed" value="true" />
+      <created>1773738368772</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1773738368772</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更改" />
+    <MESSAGE value="refactor(api): 优化景点和攻略详情接口路径及排序&#10;&#10;- 修改景点详情接口路径为 /detail/{id}，避免路径冲突&#10;- 修改攻略详情接口路径为 /travel/{id}，增强语义清晰度&#10;- 在获取攻略详情时添加按浏览量降序排序逻辑&#10;- 代码结构调整提升接口访问体验和数据展示效果" />
+    <MESSAGE value="feat(tag): 新增标签管理及查询功能" />
+    <MESSAGE value="feat(accommodation): 新增住宿订单功能及获取房型列表接口" />
+    <MESSAGE value="123" />
+    <MESSAGE value="1234" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/springboot/controller/RestaurantController.java</url>
+          <line>164</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/springboot/service/TicketService.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
